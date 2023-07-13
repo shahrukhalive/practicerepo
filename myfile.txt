@@ -1,0 +1,6 @@
+this is my file.
+I created this using nano editor.
+how are you
+this is the first version of file.
+i want to push this to git
+
